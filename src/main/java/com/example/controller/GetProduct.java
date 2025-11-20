@@ -8,6 +8,6 @@ public class GetProduct {
 
   @GetMapping("/get_product")
   public String getProduct() {
-    return "product 1";
+    return "product_1";
   }
 }
