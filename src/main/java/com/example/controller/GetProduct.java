@@ -10,4 +10,9 @@ public class GetProduct {
   public String getProduct() {
     return "product_1";
   }
+
+  @GetMapping("/get_product_deatil")
+  public String getProductDetail() {
+    return "product_detail_1";
+  }
 }
