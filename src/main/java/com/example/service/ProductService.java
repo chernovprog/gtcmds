@@ -8,4 +8,8 @@ public class ProductService {
   public void createProduct() {
 
   }
+
+  public void updateProduct() {
+
+  }
 }
