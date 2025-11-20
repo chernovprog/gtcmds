@@ -10,10 +10,10 @@
     </parent>
 
     <groupId>org.example</groupId>
-    <artifactId>SpringBootI18n</artifactId>
+    <artifactId>gtcmds</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>SpringBootI18n</name>
-    <description>SpringBootI18n</description>
+    <name>gtcmds</name>
+    <description>gtcmds</description>
 
     <properties>
         <java.version>17</java.version>
