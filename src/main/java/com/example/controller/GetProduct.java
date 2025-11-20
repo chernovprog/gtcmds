@@ -14,6 +14,6 @@ public class GetProduct {
 
   @GetMapping("/get_product_deatil/{id}")
   public String getProductDetail(@PathVariable(required = false) Integer id) {
-    return "product_detail_for: " + id;
+    return "product_detail_for::: " + id;
   }
 }
